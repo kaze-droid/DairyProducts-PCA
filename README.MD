@@ -1,0 +1,1 @@
+The goal of this project was to use PCA (Principal Component Analysis) to reduce the number of dimensions of a dataset and analyse what each Principal Component means for my Math for AI module
